@@ -1,3 +1,12 @@
+# ### 2. Simple Calculator
+
+# **Description**: Basic arithmetic operations with user input.
+
+# **Practice Goals**:
+# - Function creation and organization
+# - Error handling for invalid operations
+# - Menu-driven program structure
+
 # user input validation
 def check_input(input):
     try:

@@ -1,3 +1,12 @@
+# ### 1. Number Guessing Game
+
+# **Description**: Computer picks a random number, user guesses until correct.
+
+# **Practice Goals**:
+# - Random number generation
+# - While loops and conditionals
+# - User input handling
+
 import random # Import random for RNG
 
 # User input number validation checking
